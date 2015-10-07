@@ -1,0 +1,12 @@
+#!/bin/bash
+# tired of typing "apt-get / apt-cache install / search".
+
+echo -e "\v\ts. Search, i. Install: "
+  read action
+  case $action in
+    s)
+      apt-cache search $@ ;;#${args[*]} ;;
+    i)
+      sudo apt-get install $@ ;;
+  esac
+
