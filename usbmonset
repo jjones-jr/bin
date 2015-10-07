@@ -1,0 +1,4 @@
+#/bin/bash
+
+sudo modprobe usbmon
+lsmod | sort | grep usbmon
