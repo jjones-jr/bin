@@ -6,4 +6,6 @@ various tools shared between systems..
 {"fdi":"fedora package search or install"},
 {"gitc":"git clone http://github.com/$"},
 {"usbmonset":"load module for wireshark usb sniffer setup"},
-{"":""},
+{"add_ln":"quickly inserts a comment into a project README"},
+{"scr-set": "tool for quickly setting up an empty executeable shell
+script file""}
