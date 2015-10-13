@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# scriptname:
+# purpose:
+# creation date:
+# (c) James Jones
+
+set -x
+
+

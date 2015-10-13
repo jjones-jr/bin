@@ -9,3 +9,5 @@ various tools shared between systems..
 {"add_ln":"quickly inserts a comment into a project README"},
 {"scr-set": "tool for quickly setting up an empty executeable shell
 script file""}
+{"vocr-sh" : " capture and ocr from video display then route to terminal apps}
+
