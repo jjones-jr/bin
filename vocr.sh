@@ -1,4 +1,4 @@
-#!/bin/bash
+    #!/bin/bash
 #
 # scriptname: vocr.sh
 # purpose: early prototype for video ocr engine aimed at video tutorials.
@@ -12,8 +12,9 @@ STAMPU=$(date +%N)
 
 #_start
 
-  gnome-screenshot -a -f /home/thepa/vocr/ocred-$STAMPU
-  tesseract /home/thepa/vocr/ocred-$STAMPU /home/thepa/vocr/output
-  echo -e \\n\\nFilename: ocred-$STAMPU >> /home/thepa/vocr/output.txt
-  echo $(date): Filename: ocred-$STAMPU >> /home/thepa/vocr/output.log
+  gnome-screenshot -a -f /home/thepa/vocr/ocred-$STAMPU.png
+  cat /home/thepa/vocr/ocred-$STAMPU.png > /home/thepa/vocr/output.bin
+  tesseract /home/thepa/vocr/ocred-$STAMPU.png /home/thepa/vocr/output
+  echo -e \\n\\nFilename: ocred-$STAMPU.png >> /home/thepa/vocr/output.txt
+  echo $(date): Filename: ocred-$STAMPU.png >> /home/thepa/vocr/output.log
 
