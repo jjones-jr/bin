@@ -12,9 +12,8 @@ STAMPU=$(date +%N)
 
 #_start
 
-  gnome-screenshot -a -f $HOME/vocr/ocred-$STAMPU.png
+  import $HOME/vocr/ocred-$STAMPU.png
   cat $HOME/vocr/ocred-$STAMPU.png > $HOME/vocr/output.bin
   tesseract $HOME/vocr/ocred-$STAMPU.png $HOME/vocr/output
-  echo -e \\n\\nFilename: ocred-$STAMPU.png >> $HOME/vocr/output.txt
+  echo -e \\n\\nFilename: ocred-$STAMPU.png > $HOME/vocr/output.txt
   echo $(date): Filename: ocred-$STAMPU.png >> $HOME/vocr/output.log
-
