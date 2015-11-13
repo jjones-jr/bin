@@ -1,20 +1,48 @@
 #!/bin/bash
 #
 # scriptname: vocr.sh
-# purpose: early prototype for video ocr engine aimed at video tutorials.
-# creation date: 10/13/2015
+# purpose: prototype for video ocr engine aimed at video tutorials.
+# creation date:(10/13/2015) 11/13/2015
 # (c) James Jones
+# Package-level Dependencies: ImageMagick, Tesseract, Xclip
+# File dependencies:  vocrh.sh
+# for debugging purposes
+#set -x
 
-set -x
+source /home/james/github/bin/vocrh.sh
 
-STAMPU=$(date +%N)
+#validate parameters
 
+if [[ $@ != -a ]]\
+  && [[ $@ != -b ]]\
+  && [[ $@ != -r ]]\
+  && [[ $@ != -h ]]\
+  && [[ $@ != -v ]];
+
+then
+  usage
+fi
+
+#Display Help or Version information.
+
+case $@ in
+  -h )
+    usage
+    ;;
+  -v )
+    version
+    ;;
+    "" )
+    exit 1
+    ;;
+ esac
 
 #_start
 
-  gnome-screenshot -a -f $HOME/vocr/ocred-$STAMPU.png
-  cat $HOME/vocr/ocred-$STAMPU.png > $HOME/vocr/output.bin
-  tesseract $HOME/vocr/ocred-$STAMPU.png $HOME/vocr/output
-  echo -e \\n\\nFilename: ocred-$STAMPU.png >> $HOME/vocr/output.txt
-  echo $(date): Filename: ocred-$STAMPU.png >> $HOME/vocr/output.log
+screenshot
+screenshot_to_text
+selection_type $@
+text_to_clipboard output.txt
+log
 
+exit 1
