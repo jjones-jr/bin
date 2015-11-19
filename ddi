@@ -1,12 +1,21 @@
 #!/bin/bash
 # tired of typing "apt-get / apt-cache install / search".
 
-echo -e "\v\ts. Search, i. Install: "
+echo -e "\v\ts. Search, i. Install, n. New x. Exit: "
   read action
   case $action in
     s)
-      apt-cache search $@ ;;#${args[*]} ;;
+      apt-cache search $@ | grep "$@ "
+      $HOME/bin/ddi $@
+      ;;#${args[*]} ;;
     i)
-      sudo apt-get install $@ ;;
+      sudo apt-get install $@
+      ;;
+    n)
+      read newAction
+      $HOME/bin/ddi $newAction
+      ;;
+    x)
+      ;;
   esac
 
