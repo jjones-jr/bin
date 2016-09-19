@@ -33,4 +33,6 @@ case "$selection" in
     read target_dir
     for f in $PWD; do ln -s $PWD/$f $target_dir/$f; done
     ;;
+  esac
+done
 
