@@ -1,0 +1,717 @@
+elasticsearch - Open Source, Distributed, RESTful Search Engine
+libhwloc-contrib-plugins - Hierarchical view of the machine - contrib plugins
+nvidia-modprobe - utility to load NVIDIA kernel modules and create device nodes
+python-actdiag - generate activity-diagram image file from spec-text file
+python3-actdiag - generate activity-diagram image file from spec-text file (Python3)
+aeskulap - medical image viewer and DICOM network client
+node-almond - minimal AMD API implementation for use in optimized browser builds
+ansible - Configuration management, deployment, and task execution system
+ansible-doc - Ansible documentation and examples
+ansible-fireball - Ansible fireball transport support
+ansible-node-fireball - Ansible fireball transport support for nodes
+apt-transport-tor - APT transport for anonymous package downloads via Tor
+python-astroid - rebuild a new abstract syntax tree from Python's AST
+python3-astroid - rebuild a new abstract syntax tree from Python's AST (Python3)
+node-backbone - some Backbone for JavaScript applications - Node module
+node-backbone-dirty - server-side overrides for Backbone to use node-dirty
+bacula - network backup service - metapackage
+bareos - Backup Archiving Recovery Open Sourced - metapackage
+batmand - better approach to mobile adhoc networking
+node-bignumber - Arbitrary-precision decimal and non-decimal arithmetic for Node.js
+python-blockdiag - generate block-diagram image file from spec-text file
+python3-blockdiag - generate block-diagram image file from spec-text file for Python 3
+bmon - portable bandwidth monitor and rate estimator
+boxer-data - classes and nodes usable by Boxer
+karbon - vector graphics application for the Calligra Suite
+celeryd - async task/job queue based on message passing (daemons)
+python-celery - async task/job queue based on message passing (Python2 version)
+python-celery-common - async task/job queue based on message passing (common files)
+python-celery-doc - async task/job queue based on message passing (Documentation)
+python3-celery - async task/job queue based on message passing (Python3 version)
+citadel-server - complete and feature-rich groupware server
+cluster-glue - Reusable cluster components for Linux HA
+clustershell - Distributed shell that provides an efficient python interface
+code-saturne - General purpose Computational Fluid Dynamics (CFD) software
+code-saturne-bin - General purpose Computational Fluid Dynamics (CFD) software - binaries
+code-saturne-data - General purpose Computational Fluid Dynamics (CFD) software - data
+code-saturne-doc - General purpose Computational Fluid Dynamics (CFD) software - Documentation
+code-saturne-include - General purpose Computational Fluid Dynamics (CFD) software - includes
+codecgraph - Generates graphviz graphs from HDA-Intel codec information
+coffeescript - interpreter and compiler for the CoffeeScript language
+collectl - Utility to collect Linux performance data
+node-colors - Get color and style in your node.js console
+cowdancer - Copy-on-write directory tree utility.
+ctdb - clustered database to store temporary data
+ctn - Central Test Node, a DICOM implementation for medical imaging
+ctn-dev - Development files for Central Test Node, a DICOM implementation
+ctn-doc - Documentation for Central Test Node, a DICOM implementation
+deps-tools-cli - DEPS command-line tools
+node-dirty - tiny and fast key-value store for Node
+python-django-celery - Celery integration for Django
+python-django-celery-doc - Celery integration for Django (Documentation)
+python3-django-celery - Celery integration for Django
+python-django-classy-tags - Class based template tags for Django projects
+python-django-classy-tags-doc - Class based template tags for Django projects (Documentation)
+python3-django-classy-tags - Class based template tags for Django projects (Python3 version)
+dot2tex - Graphviz to LaTeX converter
+dracut - Low-level tool for generating an initramfs image
+dracut-network - Low-level tool for generating an initramfs image
+drbd-doc - RAID 1 over TCP/IP for Linux (user documentation)
+drbd-utils - RAID 1 over TCP/IP for Linux (user utilities)
+drbd-utils-dbg - RAID 1 over TCP/IP for Linux (user utilities' debug symbols)
+libeasy-format-ocaml - easy(ier) pretty printing for OCaml - plugins
+libeasy-format-ocaml-dev - easy(ier) pretty printing for OCaml - development files
+ejabberd - distributed, fault-tolerant Jabber/XMPP server written in Erlang
+node-ejs - Embedded JavaScript templates for Node.js
+debian-el - Emacs helpers specific to Debian users
+emacs-goodies-el - Miscellaneous add-ons for Emacs
+embassy-domalign - Extra EMBOSS commands for protein domain alignment
+erlang-snmp - Erlang/OTP SNMP applications
+ext4magic - recover deleted files from ext3 or ext4 partitions
+node-eyes - customizable value inspector for Node
+fair - high availability load balancer for TCP connections
+fence-agents - Fence Agents for Red Hat Cluster
+node-flashproxy - Pluggable transport to circumvent IP address blocking - nodejs proxy
+flowgrind - Distributed network performance measurement tool
+fonts-cabinsketch - playful sister of the Cabin font family
+foremancli - commandline search interface to Foreman
+freeipmi-ipmidetect - GNU IPMI - IPMI node detection tool
+freeipmi-ipmiseld - GNU IPMI - IPMI node detection tool
+libipmidetect0 - GNU IPMI - IPMI node detection library
+freeplane - Java program for working with Mind Maps
+fsgateway - FUSE module to browse database's metadata, sugar datastores and xml files
+ganeti-htools - cluster virtualization manager - tools (stand-alone)
+ganeti-htools-2.12 - cluster virtualization manager - tools for Ganeti 2.12
+ganglia-monitor - cluster monitoring toolkit - node daemon
+genders - cluster configuration management database tools
+libgenders-perl - perl interface to the LLNL genders cluster management utilities
+libgenders0 - C library for parsing and querying a genders database
+libgenders0-dev - development files for parsing and querying a genders database
+genext2fs - ext2 filesystem generator for embedded systems
+python-socketio - Socket.IO server based on the gevent pywsgi server
+python-socketio-doc - documentation for gevent-socketio
+git2cl - Simple tool to convert git logs to GNU ChangeLog format
+glance - OpenStack Image Service - metapackage
+glance-api - OpenStack Image Service - API server
+glance-common - OpenStack Image Service - common files
+glance-registry - OpenStack Image Service - registry server
+python-glance - OpenStack Image Service - Python client library
+python-glance-doc - OpenStack Image Service - Python library documentation
+glbsp - nodes builder for Doom-style games; has support for OpenGL
+libglbsp-dev - node builder library for OpenGL-based Doom-style games (headers)
+libglbsp3 - node builder library for OpenGL-based Doom-style games
+golang-raft-dev - Go implementation of the Raft distributed consensus protocol
+gromacs-mpich - Molecular dynamics sim, binaries for MPICH parallelization
+gromacs-openmpi - Molecular dynamics sim, binaries for OpenMPI parallelization
+gvpe - creates a virtual ethernet between multiple endpoints
+libha-jdbc-java - JDBC proxy that provides clustering capability to any JDBC driver
+libghc-dual-tree-dev - Rose trees with cached and accumulating monoidal annotations
+libghc-dual-tree-doc - Rose trees with cached and accumulating monoidal annotations; documentation
+libghc-dual-tree-prof - Rose trees with cached and accumulating monoidal annotations; profiling libraries
+libghc-graphviz-dev - bindings to Graphviz for graph visualization
+libghc-graphviz-doc - bindings to Graphviz for graph visualization; documentation
+libghc-graphviz-prof - bindings to Graphviz for graph visualization; profiling libraries
+libghc-hjscript-dev - Haskell DSL for writing JavaScript programs
+libghc-hjscript-doc - Haskell DSL for writing JavaScript programs; documentation
+libghc-hjscript-prof - Haskell DSL for writing JavaScript programs; profiling libraries
+libghc-hssyck-dev - interface to syck YAML library
+libghc-hssyck-doc - interface to syck YAML library; documentation
+libghc-hssyck-prof - interface to syck YAML library; profiling libraries
+libghc-xml-types-dev - basic types for representing XML
+libghc-xml-types-doc - basic types for representing XML; documentation
+libghc-xml-types-prof - basic types for representing XML; profiling libraries
+libghc-xml2html-dev - blaze-html instances for xml-conduit types
+libghc-xml2html-doc - blaze-html instances for xml-conduit types; documentation
+libghc-xml2html-prof - blaze-html instances for xml-conduit types; profiling libraries
+libghc-xmlhtml-dev - XML parser and renderer with HTML 5 quirks mode
+libghc-xmlhtml-doc - XML parser and renderer with HTML 5 quirks mode; documentation
+libghc-xmlhtml-prof - XML parser and renderer with HTML 5 quirks mode; profiling libraries
+mercurial-git - Git plugin for Mercurial
+node-highlight - Transitional package for node-hightlight.js
+node-highlight.js - JavaScript library for syntax highlighting - NodeJS
+horst - Highly Optimized Radio Scanning Tool
+libcss-parser-pp0 - simple CSS1 parser library for C++
+libcss-parser0 - simple CSS1 parser library for C
+libhtmlcxx-dev - simple HTML/CSS1 parser library for C++ (development)
+libhtmlcxx3 - simple HTML parser library for C++
+hwloc - Hierarchical view of the machine - utilities
+hwloc-nox - Hierarchical view of the machine - non-X version of utilities
+libhwloc-common - Hierarchical view of the machine - common files
+libhwloc-dev - Hierarchical view of the machine - static libs and headers
+libhwloc-doc - Hierarchical view of the machine - documentation
+libhwloc-plugins - Hierarchical view of the machine - plugins
+libhwloc5 - Hierarchical view of the machine - shared libs
+hyperestraier - full-text search system for communities
+libestraier-java - Hyper Estraier Node API Libraries for Java
+libestraier-perl - Hyper Estraier node API Libraries for Perl
+ruby-hyperestraier - Hyper Estraier Node API Libraries for Ruby
+ruby-hyperestraier-doc - Hyper Estraier Node API Libraries for Ruby (documentation)
+icecc - distributed compiler (client and server)
+icecc-monitor - icecc monitor
+libidzebra-2.0-mod-grs-xml - IDZebra filter grs.xml (XML filter)
+ifcico - Fidonet Technology transport package
+libjs-imagesloaded - Detect when images have been loaded
+inosync - notification-based directory synchronization daemon
+iptraf - Interactive Colorful IP LAN Monitor
+iptraf-ng - Next Generation Interactive Colorful IP LAN Monitor
+ipv6toolkit - Security assessment and troubleshooting tool for the IPv6 protocols
+irssi-scripts - collection of scripts for irssi
+iwatch - realtime filesystem monitoring program using inotify
+libjavaparser-java - Java library for parsing Java 1.5.
+libjavaparser-java-doc - Java library for parsing Java 1.5.
+jenkins-memory-monitor - Jenkins native integration for monitoring memory usage
+jenkins-memory-monitor-doc - Documentation for jenkins-memory-monitor
+libjenkins-remoting-java - Bridge separate JVMs into a single semi-shared space
+libjenkins-remoting-java-doc - Documentation for jenkins-remoting
+josm - Editor for OpenStreetMap
+josm-l10n - Editor for OpenStreetMap - translation files
+josm-plugins - Plugins for JOSM
+libjs-jquery-treetable - jQuery treeTable Plugin
+jtb - syntax tree builder and visitors generator for JavaCC
+kanif - cluster management and administration swiss army knife
+knode - graphical news reader
+kimwitu++ - A (syntax-)tree-handling tool (term processor)
+kimwitu++-doc - Documentation for the (syntax-)tree-handling tool Kimwitu++
+kumofs - simple and fast distributed key-value store
+libjs-languages4translatewiki - Javascript globalization and localization for browser use
+node-languages4translatewiki - Javascript globalization and localization for Node.js
+python-lazyarray - Python module providing a NumPy-compatible lazily-evaluated array
+lbdb - Little Brother's DataBase for the mutt mail reader
+leafnode - NNTP server for small sites
+node-less - the LESS CSS meta-language - compiler and Node module
+libanyevent-http-scopedclient-perl - AnyEvent::HTTP based scoped client
+libaudio-ecasound-perl - Perl binding to the ecasound sampler, recorder, fx-processor
+libbiblio-thesaurus-perl - Perl extension for managing ISO thesaurus
+libbitmask-dev - header files and docs for libbitmask
+libbitmask1 - supports multi-word bitmask operations
+libcitygml0 - Open source C++ library for parsing CityGML files
+libcitygml0-bin - Utils of libcitygml - citygml2vrml and citygmltest
+libcitygml0-dev - Static and header files of libcitygml
+openscenegraph-plugin-citygml-shared - libcitygml OpenSceneGraph plugin (shared version)
+openscenegraph-plugin-citygml-static - libcitygml OpenSceneGraph plugin (static version)
+libclass-autoloadcan-perl - module managing conflict between AUTOLOAD, can and inheritance
+libconfig-model-backend-augeas-perl - config-model reader and writer powered by Augeas
+libcpuset-dev - header files and docs for libcpuset
+libcpuset1 - assigns a set of CPUs and Memory Nodes to a set of tasks
+libcql-parser-perl - Common Query Language parser
+libcroco-tools - Cascading Style Sheet (CSS) parsing and manipulation toolkit - utils
+libcroco3 - Cascading Style Sheet (CSS) parsing and manipulation toolkit
+libcroco3-dev - Cascading Style Sheet (CSS) parsing and manipulation toolkit
+libdata-walk-perl - Traverse Perl data structures
+libdevel-callsite-perl - Perl module to get caller return OP address and Perl interpreter context
+libfile-wildcard-perl - Enhanced glob processing
+libfishsound1 - simple API that wraps Xiph.Org audio codecs
+libfishsound1-dbg - simple API that wraps Xiph.Org audio codecs (debugging information)
+libfishsound1-dev - simple API that wraps Xiph.Org audio codecs (development files)
+libgraph-d3-perl - module to create ref/json to show node-edge graph with D3.js
+libgraph-easy-perl - Perl module to convert or render graphs (as ASCII, HTML, SVG or via Graphviz)
+libgtk2-sourceview2-perl - enhanced source code editor widget
+libhash-merge-simple-perl - Perl module to easily merge two or more hashes
+libhtml-html5-writer-perl - output a DOM as HTML5
+libhtml-treebuilder-xpath-perl - Perl module to add XPath support to HTML::TreeBuilder
+libidw-java - InfoNode Docking Windows (similar to JInternalFrames)
+libidw-java-doc - InfoNode Docking Windows (javadoc)
+libiec61883-0 - an partial implementation of IEC 61883
+libiec61883-dev - an partial implementation of IEC 61883
+libio-dirent-perl - Perl module for accessing dirent structs returned by readdir
+python-liblarch - easily handle data structures
+liblatex-tom-perl - A module for parsing, analyzing and manipulating latex documents
+liblinux-inotify2-perl - scalable directory and file change notification
+liblog-handler-perl - module to handle output destined for log files
+libmakefile-dom-perl - Perl DOM implementation for Makefiles
+libnet-sftp-sftpserver-perl - Secure File Transfer Protocol Server
+libpod-pom-perl - module providing a Pod Object Model
+libpod-tree-perl - module for creating a static syntax tree for a POD
+libpoe-filter-xml-perl - POE Filter for parsing XML
+libppix-utilities-perl - Perl module containing extensions to PPI
+libraw1394-11 - library for direct access to IEEE 1394 bus (aka FireWire)
+libraw1394-11-dbg - debugging symbols for libraw1394-11
+libraw1394-dev - library for direct access to IEEE 1394 bus - development files
+libraw1394-doc - Reference manual and documentation about libraw1394
+libraw1394-tools - library for direct access to IEEE 1394 bus (aka FireWire)
+librdf-trine-node-literal-xml-perl - RDF Node class for XML Literals
+librdf-trine-perl - RDF Framework for Perl
+libsocket-linux-perl - module for using socket constants defined in Linux <netinet/tcp.h>
+libsvn-dump-perl - module for parsing Subversion dumps
+libtcd-dev - Tide Constituent Database (TCD) library (header file)
+libtcd0 - Tide Constituent Database (TCD) library
+libtest-xml-simple-perl - Perl testing framework for XML data
+libtggraphlayout-java - Graph visualization library for Java
+libtree-dagnode-perl - Perl (super)class for representing nodes in a tree
+libtree-multinode-perl - a multi node tree object
+libtree-redblack-perl - Perl implementation of Red/Black tree, a balanced tree
+libtree-simple-visitorfactory-perl - collection of dispensing visitor objects for Tree::Simple
+libuv0.10 - asynchronous event notification library - runtime library
+libuv0.10-dbg - asynchronous event notification library - debugging symbols
+libuv0.10-dev - asynchronous event notification library - development files
+libwiki-toolkit-plugin-categoriser-perl - Category management for Wiki::Toolkit
+libwiki-toolkit-plugin-diff-perl - format differences between two Wiki::Toolkit pages
+libwiki-toolkit-plugin-locator-grid-perl - A Wiki::Toolkit plugin to manage co-ordinate data
+libwiki-toolkit-plugin-ping-perl - "ping" various services when nodes are written
+libwiki-toolkit-plugin-rss-reader-perl - module to retrieve RSS feeds for inclusion in Wiki::Toolkit nodes
+libxml-grove-perl - Perl module for accessing parsed *ML instances
+libxml-libxml-debugging-perl - get debugging information from XML::LibXML
+libxml-node-perl - Perl module for parsing XML files node based
+libxml-nodefilter-perl - Perl module for a generic node-filter class for DOM traversal
+libxml-smart-perl - Perl module for access to parsed XML trees
+libxml-tidy-perl - module for tidy indenting of XML documents
+libxml-xpathengine-perl - re-usable XPath engine for DOM-like trees
+libxpp3-java - XML pull parser library for java
+logtail - Print log file lines that have not been read
+python-logilab-astng - rebuild a new abstract syntax tree (AST) from Python's ast
+python3-logilab-astng - rebuild a new abstract syntax tree (AST) from Python's ast (Python3)
+libmadlib - mesh adaptation library
+libmadlib-dbg - mesh adaptation library
+libmadlib-dev - mesh adaptation library
+madlib-doc - mesh adaptation library
+mapnik-reference - Parseable specifications of mapnik - Node.js module
+libreplacer-java - Maven plugin to replace tokens in a given file with a value
+mcelog - x86 Machine Check Exceptions collector and decoder
+mcl - Markov Cluster algorithm
+mha4mysql-node - Master High Availability Manager and Tools for MySQL, Node Package
+minetest-mod-pipeworks - Minetest mod - Pipeworks
+minetest-mod-worldedit - Minetest mod - ingame world editor
+node-mirror - content aggregator for NodeJS
+node-modestmaps - display and interaction library for tile-based maps - NodeJS
+monodevelop - Development Environment for GNOME
+monodevelop-nunit - NUnit plugin for MonoDevelop
+monodevelop-versioncontrol - VersionControl plugin for MonoDevelop
+monodevelop-database - Database plugin for MonoDevelop
+monodevelop-monogame - Free implementation of XNA - IDE integration
+munin - network-wide graphing framework (grapher/gatherer)
+munin-common - network-wide graphing framework (common)
+munin-node - network-wide graphing framework (node)
+munin-plugins-core - network-wide graphing framework (plugins for node)
+munin-plugins-extra - network-wide graphing framework (user contributed plugins for node)
+munin-plugins-java - network-wide graphing framework (java plugins for node)
+munin-node-c - C rewrite of Munin node
+munin-plugins-c - C rewrite of some Munin plugins
+node-mustache - Mustache rendering engine for Javascript - CommonJS
+libmxml-dev - small XML parsing library (development)
+libmxml1 - small XML parsing library (runtime)
+mysql-mmm-agent - Multi-Master Replication Manager for MySQL - agent daemon
+mysql-mmm-common - Multi-Master Replication Manager for MySQL - common files
+mysql-mmm-monitor - Multi-Master Replication Manager for MySQL - monitoring daemon
+mysql-mmm-tools - Multi-Master Replication Manager for MySQL - tools
+nast - packet sniffer and lan analyzer
+nat-traverse - NAT gateway traversal utility
+ndpmon - IPv6 Neighbor Discovery Protocol Monitor
+nescc - Programming Language for Deeply Networked Systems
+neutron-plugin-linuxbridge-agent - OpenStack virtual network service - Linux bridge agent
+neutron-plugin-openvswitch-agent - OpenStack virtual network service - Open vSwitch agent
+python-nevow - Web application templating system for Python and Twisted
+ax25-node - Amateur Packet Radio Node program
+node - Amateur Packet Radio Node program (transitional package)
+node-abbrev - Get unique abbreviations for a set of strings - Node.js module
+node-abstract-leveldown - Abstract prototype matching the LevelDOWN API - Node.js module
+node-accepts - higher-level content negotiation for Node.js
+node-active-x-obfuscator - Safely obfuscate the string 'ActiveX' inside of JavaScript code
+node-ain2 - syslog logging for Node
+node-amdefine - Asynchronous Module Definition (AMD) for Node.js
+node-ansi - Advanced ANSI formatting tool for Node.js
+node-ansi-color-table - Color and format tables for ansi output - Node.js module
+node-archy - Pretty-print nested hierarchies module for Node.js
+libjs-async - higher-order functions and common patterns for asynchronous Javascript
+node-async - higher-order functions and common patterns for asynchronous Javascript
+node-async-stacktrace - Improve Node.js stacktraces and make it easier to handle errors
+node-base64id - Node.js module that generates a base64 id
+node-batch - batch with concurrency control and progress events - Node.js module
+node-bindings - resolve path to c++ addons built by node-gyp - Node.js module
+node-bl - access multiple buffers with Buffer interface - Node.js module
+node-block-stream - Stream of fixed-size blocks, with zero-padding when necessary
+node-body-parser - body parsing middleware - Node.js module
+node-browserify-lite - bundle client-side JavaScript using Node.js-style module syntax
+node-buffer-crc32 - computes crc32 of buffers and strings - module for Node.js
+node-bytes - Byte string parser and formatter - Node.js module
+node-carto - Mapnik stylesheet compiler
+node-chainsaw - Node.js module to build chainable fluent interfaces
+node-channels - Event channels in Node.js
+node-character-parser - JavaScript parser character by character
+node-chrono - date formatting library for NodeJS
+node-clarinet - evented streaming JSON parser - Node.js module
+cleancss - Tool for minifying CSS files
+node-clean-css - Node.js module for minifying CSS files
+node-cli - tool for rapidly building command-line Node apps
+node-combined-stream - Append streams one after another - module for Node.js
+node-commander - Complete solution for Node.js command-line interfaces
+node-compressible - checks wether a mime type is compressible - Node.js module
+node-compression - express middleware for gzip/deflate compression - Node.js module
+node-connect - extensible HTTP server framework - Node.js module
+node-connect-timeout - connect middleware for timing out HTTP requests - Node.js module
+node-constantinople - determine if an expression evaluates to a constant - Node.js module
+node-content-disposition - Create and parse Content-Disposition header - Node.js module
+node-contextify - turn an object into a persistent execution context
+node-cookie - Basic cookie parser and serializer module for Node.js
+node-cookie-jar - Cookie handling for HTTP clients - module for Node.js
+node-cookie-parser - cookie parsing middleware with signatures - Node.js module
+node-cookie-signature - Sign and unsign cookies using hmac - module for Node.js
+node-cookiejar - simple persistent cookiejar system - Node.js module
+node-cookies - Cookies, optionally signed using Keygrip - Node.js module
+node-crc - module for calculating Cyclic Redundancy Check (CRC)
+node-css - JavaScript CSS parser and stringifier - Node.js module
+node-css-parse - JavaScript CSS parser for Node.js and the browser
+node-cssom - CSS parser written in pure JavaScript - NodeJS module
+node-cssstyle - CSSStyleDeclaration Object Model implementation
+node-daemon - Turn a node script into a daemon
+node-databank - Node.js JSON storage abstraction layer
+node-debug - small debugging utility for Node.js
+node-delayed-stream - Buffer stream events for later handling - module for Node.js
+node-depd - mark a function or property as deprecated - Node.js module
+node-dequeue - Simple Double Ended Queue Datastructure for Node.js
+node-diacritics - remove diacritics from strings - Node.js module
+node-diff - javascript text differencing implementation
+node-dryice - CommonJS/RequireJS packaging tool for browser scripts
+node-entities - Encode and decode XML/HTML entities with ease
+node-errorhandler - error handler middleware - Node.js
+node-escape-html - simply escape HTML entities
+node-etag - entity tag creator for - Node.js module
+libjs-eventemitter2 - Event emitter compatible with browsers
+node-eventemitter2 - Event emitter compatible with browsers - module for Node.js
+node-expect.js - behavior driven test assertions - Node.js module
+node-express - web application framework for node
+node-express-generator - express applications generator
+node-extend - port of jQuery.extend for Node.js
+node-faye-websocket - standards-compliant WebSocket library for Node.js
+node-fd-slicer - create multiple ReadStreams or WriteStreams from the same fd - Node.js module
+node-finalhandler - final HTTP responder - Node.js module
+node-findit2 - walk a directory tree recursively with events
+node-findup-sync - Filename searcher module for Node.js, event-based server-side
+node-forever-agent - HTTP agent supporting keep-alive requests - module for Node.js
+node-form-data - Create multipart/form-data streams module for Node.js
+node-formidable - Multipart form data parser module for Node.js
+node-fresh - Check client cache staleness using HTTP headers - Node.js module
+node-fstream - Advanced filesystem streaming tools for Node.js
+node-fstream-ignore - Directory reader configurable by .ignore module for Node.js
+node-generic-pool - generic resource pooling for Node.js
+node-get - high-level HTTP client for NodeJS
+node-github-url-from-git - Convert github git or gist url to an http url - Node.js module
+node-glob - glob functionality for Node.js
+node-graceful-fs - drop-in replacement improving the Node.js fs module
+node-groove - bindings to libgroove - generic music player library - Node.js module
+node-growl - unobtrusive notification system for nodejs
+node-gyp - Native addon build tool for Node.js
+libjs-hooker - Useful javascript debugging library usable in a browser
+node-hooker - Useful debugging library for Node.js
+libjs-htmlparser - forgiving HTML/XML/RSS Parser in Javascript
+node-htmlparser - forgiving HTML/XML/RSS Parser in Javascript for NodeJS
+node-htmlparser2 - fast & forgiving HTML/XML/RSS parser
+node-iconv - text recoding module for Node.js
+libjs-inherits - Exposes inherits function from Node.js environment
+node-inherits - Exposes inherits function from Node.js environment
+node-ini - ini format parser and serializer for Node.js
+node-ipaddr.js - IPv4 and IPv6 addresses manipulation - Node.js module
+node-iscroll - High performance, small footprint JavaScript scroller  NodeJS module
+node-jade - high performance template engine - Node.js module
+node-jake - JavaScript build tool for Node.js
+node-jsconfig - Node async configuration loader with command line support
+node-json-stringify-safe - JSON.stringify with circular references module for Node.js
+node-jsv - extendable, fully compliant JSON schema validator for NodeJS
+node-keese - arbitrary-precision floats encoded as strings - Node.js module
+node-keygrip - Key signing and verification for rotated credentials for Node.js
+node-keypress - Make any Node ReadableStream emit "keypress" events
+node-lastfm - Read and write to Last.fm - Node.js module
+node-leveldown - LevelDB bindings - Node.js module
+node-libravatar - libravatar library for NodeJS
+node-lockfile - Asynchronous file lock module for Node.js
+node-lodash - Lo-dash is a Node.js utility library
+node-log4js - Conversion of the log4js framework to work with Node.js
+node-lru-cache - least-recently-used cache object for Node.js
+node-mapnik - bindings to the Mapnik tile rendering library for Node.js
+node-marked - Full-featured markdown parser and compiler for NodeJS
+node-mbtiles - Tilelive store for writing to MBTiles format - Node.js module
+node-media-typer - RFC 6838 media type parser and formatter - Node.js module
+node-merge-descriptors - merge objects using descriptors
+node-mess - Fisher–Yates shuffle algorithm implementation for Node.js
+node-methods - contains the HTTP methods that Node.js supports
+node-millstone - prepare datasources in an MML file for consumption in mapnik
+node-mime - library for mime-type mapping for Node.js
+node-mime-types - ultimate JavaScript content-type utility - Node.js module
+node-minimatch - Convert glob expressions into RegExp objects for Node.js
+node-mkdirp - Recursively create directories - Node.js module
+libjs-mocha - simple, flexible, fun test framework - JavaScript library
+mocha - simple, flexible, fun test framework - Node.js module
+node-monocle - Watch directories for file changes - Node.js module
+node-multiparty - Multipart/form-data parser for Node.js
+node-music-library-index - build a searchable object model given track metadata objects - Node.js module
+node-mute-stream - Pass-through stream that can be muted module for Node.js
+node-mysql - MySQL client implementation for Node.js
+node-nan - Native Abstractions for Node.js
+node-ncp - Asynchronous recursive file copy utility - Node.js module
+node-negotiator - HTTP content negotiator for Node.js
+node-node-redis - Redis client implementation for Node.js
+node-nopt - Command-line option parser for Node.js
+node-normalize-package-data - Normalizes package metadata - Node.js module
+node-npmlog - Logger with custom levels and colored output for Node.js
+node-nwmatcher - CSS3-compliant JavaScript selector engine
+node-oauth - OAuth wrapper for Node.js
+node-oauth-sign - OAuth 1 signing module for Node.js
+node-finished - transitional dummy package
+node-on-finished - calls back on request close, finish or error - Node.js module
+node-on-headers - HTTP response headers listener - Node.js module
+node-once - Run a function only once with this module for Node.js
+node-openid - OpenID client library for Node.js
+node-optimist - light-weight option parsing library for NodeJS
+node-osenv - Environment settings lookup module for Node.js
+node-parseurl - parse a url with memoization
+node-path-to-regexp - express style path to RegExp utility
+node-pend - simple parallel async callback helper - Node.js module
+node-policyfile - Flash Socket Policy File Server for Node.js
+node-pg - PostgreSQL client library for Node
+node-promise - bare bones Promises/A+ implementation - Node.js module
+node-proxy-addr - remote address filter for proxied requests - Node.js module
+node-qs - Parse, stringify query strings for Node.js
+node-range-parser - HTTP Range header parser - Node.js module
+node-raw-body - Request body length validation supporting streams - Node.js
+node-read - Read user input from stdin module for Node.js
+node-read-package-json - Read package.json for npm module for Node.js
+node-readdirp - Recursive version of Node.js's fs.readdir
+node-redis - redis client library for Node.js
+node-request - simplified HTTP request client module for Node.js
+node-require-all - Require all Node.js module files within a directory
+node-resolve - Synchronous/Asynchronous require.resolve() algorithm
+node-response-time - X-Response-Time header manager for HTTP response - Node.js module
+node-retry - Retry strategies for failed operations module for Node.js
+node-rimraf - Deep deletion (like rm -rf) module for Node.js
+node-security - Safely encoding and decoding methods for Node.js
+libjs-semver - Semantic Versioning for Node.js
+node-semver - Semantic Versioning for Node.js
+node-send - Static file server with ranges and negotiation support for Node.js
+node-serve-favicon - favicon serving middleware with caching - Node.js module
+node-serve-index - directory listings middleware for Node.js
+node-serve-static - static files server module for Node.js
+node-sha - Check and get file or stream hashes - module for Node.js
+node-sigmund - Quick and dirty signatures for Objects module for Node.js
+node-sink-test - Asynchronous JavaScript Unit Testing Framework
+node-slide - Simple chain and asyncMap flow control module for Node.js
+node-source-map - Mozilla source map generator and consumer - Node.js module
+node-sphericalmercator - Spherical Mercator projection support for NodeJS
+node-sqlite3 - asynchronous, non-blocking SQLite3 bindings for Node.js
+node-srs - spatial reference library for Node.js
+node-static - RFC2616 compliant HTTP static-file server module with caching
+node-stylus - Robust, expressive, and feature-rich CSS superset - Node.js module
+node-superagent - HTTP client request with chainable API - Node.js module
+node-supertest - superagent driven library for testing HTTP servers
+node-tap - Test-Anything-Protocol module for Node.js
+node-tar - read and write portable tar archives module for Node.js
+node-temp - Temporary files, directories, and streams for Node.js
+node-through2 - Make a stream.Transform out of a function - Node.js module
+node-tilejson - tile source backend for online tile sources
+node-tilelive - Interface for tile backends modules for Node.js
+node-tilelive-bridge - Tilelive store for generating mapnik vector tiles - Node.js module
+node-tilelive-mapnik - Tilelive store for mapnik datasources rendering - Node.js module
+node-tilelive-vector - Tilelive store for rendering mapnik vector tiles - Node.js module
+node-tinycolor - No-fuzz, barebone, zero muppetry color module for Node.js
+node-topcube - spawn a child webkit window from Node.js
+node-transformers - String and data transformations using templates and compilers
+libjs-traverse - recursively traverse objects in Javascript
+node-traverse - recursively traverse objects in Node.js
+node-tunnel-agent - HTTP proxy tunneling agent module for Node.js
+node-type-is - infer the content type from request
+node-utilities - classic collection of JavaScript utilities
+node-utils-merge - provides a merge utility function
+libjs-node-uuid - simple, fast generation of RFC4122 UUIDs - JavaScript library
+node-node-uuid - simple, fast generation of RFC4122 UUIDs - Node module
+node-vary - manage the Vary header of a HTTP response - Node.js module
+node-vhost - connect middleware for domain request matching - Node.js module
+node-webfinger - Client library for Host Meta (RFC 6415) and Webfinger
+node-websocket-driver - WebSocket protocol handler with pluggable I/O for Node.js
+node-which - Cross-platform 'which' module for Node.js
+node-with - compile-time `with` statement - Node.js module
+node-wordwrap - word wrapping library for NodeJS
+node-ws - RFC-6455 WebSocket implementation module for Node.js
+node-xml2js - simple XML to JavaScript object converter - Node.js module
+node-xmlhttprequest - XMLHttpRequest for Node
+node-yajsml - Yet another (Common)JS module loader
+node-yamlish - Parser/encoder for the YAMLish format for Node.js
+node-yauzl - yet another unzip library - Node.js module
+node-yazl - yet another zip library - Node.js module
+node-ytdl-core - YouTube video downloader - Node.js module
+node-zipfile - library for handling zipfiles in Node.js
+nodejs - evented I/O for V8 javascript
+nodejs-dbg - evented I/O for V8 javascript (debug)
+nodejs-dev - evented I/O for V8 javascript (development files)
+nodejs-legacy - evented I/O for V8 javascript (legacy symlink)
+nova-compute - OpenStack Compute - compute node
+nova-compute-kvm - OpenStack Compute - compute node (KVM)
+nova-compute-lxc - OpenStack Compute - compute node (LXC)
+nova-compute-qemu - OpenStack Compute - compute node (QEmu)
+nova-compute-uml - OpenStack Compute - compute node (UserModeLinux)
+nova-console - OpenStack Compute - console
+nova-consoleproxy - OpenStack Compute - NoVNC proxy
+nova-network - OpenStack Compute - network manager
+npm - package manager for Node.js
+npm2deb - tool to help debianize Node.js modules
+libicsharpcode-nrefactory-cecil5.0-cil - C# Parsing and Refactoring Library - Cecil back-end
+libicsharpcode-nrefactory-cil-dev - C# Parsing and Refactoring Library - Development files
+libicsharpcode-nrefactory-csharp5.0-cil - C# Parsing and Refactoring Library - C# Component
+libicsharpcode-nrefactory-ikvm5.0-cil - C# Parsing and Refactoring Library - IKVM back-end
+libicsharpcode-nrefactory-xml5.0-cil - C# Parsing and Refactoring Library - XML
+libicsharpcode-nrefactory5.0-cil - C# Parsing and Refactoring Library - Core
+nrefactory-samples - C# Parsing and Refactoring Library - Sample programs
+nutcracker - Fast, light-weight proxy for memcached and Redis
+python-nwdiag - generate network-diagram image file from spec-text file
+python3-nwdiag - generate network-diagram image file for Python3
+oar-node - OAR batch scheduler node package
+ocamlgraph-editor - graphical graph editor based on hyperbolic geometry
+olsrd - optimized link-state routing daemon (unik-olsrd)
+olsrd-gui - GTK GUI to control and get info about olsrd
+olsrd-plugins - various plugins to enhance olsrd
+openmcdf - Structured Storage Explorer
+openstack-compute-node - Metapackage to install an Openstack compute node
+openstack-proxy-node - Metapackage to install an Openstack proxy node
+libosmium-dev - C++ framework for working with OSM data files
+osmjs - osmium-based Javascript framework for handling OSM data
+libossp-uuid-dev - OSSP uuid ISO-C and C++ - headers and static libraries
+libossp-uuid-perl - perl OSSP::UUID - OSSP uuid Perl Binding
+libossp-uuid16 - OSSP uuid ISO-C and C++ - shared library
+uuid - Universally Unique Identifier Command-Line Tool
+parprouted - transparent IP (Layer 3) proxy ARP bridging tool
+node-passport - simple, unobtrusive authentication system for Node.js
+node-passport-oauth - simple, unobtrusive authentication system for Node.js - OAuth strategy
+pax - Portable Archive Interchange (cpio, pax, tar)
+pconsole - parallel interactive shell console
+pdsh - Efficient rsh-like utility, for using hosts in parallel
+node-pegjs - JavaScript parser generator
+python-pivy - Coin binding for Python
+proalign - Probabilistic multiple alignment program
+pssh - Parallel versions of SSH-based tools
+pvm - Parallel Virtual Machine - binaries
+python-chef - Python API for interacting with a Chef server
+python-astor - Python AST manipulator
+python3-astor - Python 3 AST manipulator
+python-elasticsearch - Python client for Elasticsearch
+python-elasticsearch-doc - Python client for Elasticsearch (Documentation)
+python3-elasticsearch - Python client for Elasticsearch (Python3 version)
+python-glance-store - OpenStack Image Service store library - Python 2.x
+python-glance-store-doc - OpenStack Image Service store library - doc
+python-glanceclient - Client library for Openstack glance server
+python-gvgen - Python class to generate dot files
+python-jenkins - Python bindings for the Jenkins Remote API
+python-larch - B-tree library for Python
+python-lesscpy - LessCss Compiler for Python 2.x
+python3-lesscpy - LessCss Compiler for Python 3.x
+python-nemu - lightweight network emulator embedded in a small python library
+python-networkx - tool to create, manipulate and study complex networks
+python-networkx-doc - tool to create, manipulate and study complex networks - documentation
+python3-networkx - tool to create, manipulate and study complex networks (Python3)
+python-saharaclient - Client library for Openstack Sahara API server - Python 2.x module
+python-saharaclient-doc - Client library for Openstack Sahara API server - documentation
+python-savannaclient - Client for OpenStack Hadoop cluster as a Service
+python-stem - Tor control library for Python
+python3-stem - Tor control library for Python 3 series
+python-swiftclient - Client library for Openstack Swift API
+python-torctl - Tor control library for Python
+pythontracer - Python programs' execution tracer and profiler
+qlvnictools - Tools for QLogic Virtual NICs
+node-queue-async - asynchronous helper library for JavaScript - NodeJS
+quota - disk quota management tools
+readahead-fedora - Fedora's implementation of readahead to preload boot process files
+python-reclass - hierarchical inventory backend for configuration management systems
+reclass - hierarchical inventory backend for configuration management systems
+reclass-doc - reclass documentation
+cman - Red Hat cluster suite - cluster manager
+libfence-dev - Red Hat cluster suite - fence server development files
+libfence4 - Red Hat cluster suite - fence client library
+redhat-cluster-suite - Red Hat cluster suite - metapackage
+node-requirejs - JavaScript file and module loader
+node-requirejs-text - RequireJS/AMD loader plugin for text resources
+ruby-amqp - feature-rich, asynchronous AMQP 0.9.1 client
+ruby-fog - Ruby cloud services library
+ruby-fog-core - shared classes and tests for fog providers and services
+ruby-http - easy-to-use client library for making http requests from Ruby
+ruby-multipart-parser - simple parser for multipart MIME messages
+ruby-rabl - Ruby templating library with JSON, BSON, XML and MessagePack support
+node-sax - event-based streaming XML parser - Node.js module
+scotch - programs and libraries for graph, mesh and hypergraph partitioning
+python-seqdiag - seqdiag generate sequence-diagram image file from spec-text file
+python3-seqdiag - seqdiag generate sequence-diagram image file for Python3
+sheepdog - distributed storage system for QEMU
+node-should - behavior driven test assertions library - Node.js module
+libsilo-bin - Utilities to manipulate libsilo files
+libsilo-dev - Development files for SILO Scientific I/O library from LLNL
+libsiloh5-0 - SILO Science I/O library from LLNL
+python-silo - Python interface to the SILO Scientific I/O library
+sinfo - tool for monitoring computer clusters using broadcasts
+slapos-client - Client-side to request applications with SlapOS
+slapos-node-unofficial - Node-side to deploy applications with SlapOS (unofficial)
+postgresql-9.4-slony1-2 - replication system for PostgreSQL: PostgreSQL 9.4 server plug-in
+slony1-2-bin - replication system for PostgreSQL: daemon and administration tools
+libpam-slurm - PAM module to authenticate using the SLURM resource manager
+slurm-wlm - Simple Linux Utility for Resource Management
+slurmd - SLURM compute node daemon
+sview - GUI to view and modify SLURM state
+node-smash - concatenate files together using import statements
+sn - Small NNTP server for leaf sites
+squashfs-tools - Tool to create and append to squashfs filesystems
+squashfs-tools-dbg - Tool to create and append to squashfs filesystems (debug)
+node-step - simple control-flow library for Node
+stx-btree-dev - b+tree implementation in c++
+python-swift - distributed virtual object store - Python libraries
+swift - distributed virtual object store - common files
+swift-account - distributed virtual object store - account server
+swift-container - distributed virtual object store - container server
+swift-doc - distributed virtual object store - documentation
+swift-object - distributed virtual object store - object server
+swift-object-expirer - distributed virtual object store - object-expirer
+swift-proxy - distributed virtual object store - proxy server
+swift-plugin-s3 - swift3 (S3 compatibility) middleware plugin for swift
+sxid - suid, sgid file and directory checking
+system-config-cluster - graphical configuration and management tool for Red Hat Cluster Suite
+udev - /dev/ and hotplug management daemon
+libtaktuk-1-dev - C bindings for taktuk (development files)
+libtaktuk-perl - Perl bindings for taktuk
+libtaktuk3 - C bindings for taktuk
+taktuk - efficient, large scale, parallel remote execution of commands
+texinfo - Documentation system for on-line information and printed output
+texlive-pictures - TeX Live: Graphics, pictures, diagrams
+texlive-pstricks - TeX Live: PSTricks
+treeline - versatile tree-like structured custom data manager
+tthsum - generates or checks TTH message digests
+libug-dbg - software framework for finite element methods (debug symbols)
+libug-dev - software framework for finite element methods (development files)
+libug3.11.0 - software framework for finite element methods (library)
+node-uglify - JavaScript parser, mangler/compressor and beautifier toolkit
+node-underscore - JavaScript's functional programming helper library - NodeJS
+node-unorm - Common JS Unicode Normalizer (Node.js)
+node-validator - Javascript string validation and sanitization for Node.js
+python-viper - minimalistic scientific plotter and run-time visualization module
+node-vows - asynchronous BDD & continuous integration for Node
+citadel-suite - complete and feature-rich groupware server; metapackage for full installation
+whitedune - graphical VRML97/X3D viewer, editor, 3D modeller and animation tool
+x42-plugins - Collection of LV2 plugins
+xdot - interactive viewer for Graphviz dot files
+xymon - monitoring system for systems, networks and applications
+z88 - Finite Element Analysis Program - runtime
+z88-data - Finite Element Analysis Program - data
+z88-doc - Finite Element Analysis Program - documentation
+node-zeparser - Javascript code parser module for Node.js
+ganeti-htools-2.15 - cluster virtualization manager - tools for Ganeti 2.15
+node-jssip - JavaScript implementation of a WebRTC SIP video phone
+libosmium2-dev - C++ framework for working with OSM data files
+libosmium2-doc - C++ framework for working with OSM data files - documentation
+libuv1 - asynchronous event notification library - runtime library
+libuv1-dbg - asynchronous event notification library - debugging symbols
+libuv1-dev - asynchronous event notification library - development files
+neutron-linuxbridge-agent - OpenStack virtual network service - Linux bridge agent
+neutron-openvswitch-agent - OpenStack virtual network service - Open vSwitch agent
+node-bowser - JavaScript browser detection library
+libjs-events - Node EventEmitter
+node-events - Node EventEmitter
+node-is-typedarray - JavaScript library checking if object is TypedArray
+libjs-merge - JavaScript utility for merging multiple objects into one.
+node-merge - JavaScript utility for merging multiple objects into one.
+node-sdp-transform - JavaScript parser/writer for Session Description Protocol
+node-typedarray-to-buffer - JavaScript utility converting TypedArray to buffer without copy
+libjs-util - NodeJS/JavaScript util module
+node-util - NodeJS/JavaScript util module
+libjs-websocket - WebSocket implementation for NodeJS
+node-websocket - WebSocket implementation for NodeJS
+nova-compute-ironic - OpenStack Compute - compute node (Ironic)
+ori - peer-to-peer distributed file system
+osmcoastline - Extract coastline data from OpenStreetMap planet file
+osmium-tool - Command line tool for working with OpenStreetMap data
+pyosmium-doc - Osmium library bindings for Python - Documentation
+python-pyosmium - Osmium library bindings for Python
+python3-pyosmium - Osmium library bindings for Python 3
+node-rtcninja - JavaScript parser/writer for Session Description Protocol
+libug3.12.1 - software framework for finite element methods (library)
