@@ -10,7 +10,6 @@
 #for f in *.xml; do xmlstarlet sel -t -v '//AllotmentBookingReport/RisaplsInformation/RisaplsCommonInformation/Basic/TelegramData' -n $f; done
 
 
-
 declare -A files
 #declare -i counter
 
@@ -23,14 +22,7 @@ files=$(find . -name "*.xml" -print | xargs grep -i $@ | egrep -o TLLXMK_'[0-9]+
 # returns a string of ' ' space-separated values
 # these values are to be added to a list of filenames tracked for each customer object.
 
-
-
-
-
-
-
 echo $files
-
 
 
 
